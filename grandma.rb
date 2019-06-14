@@ -1,10 +1,11 @@
 def speak_to_grandma
 
 if phrase !==capitals 
-  putsHUH?! SPEAK UP, SONNY!
-# 
-# unless you shout it (type in all capitals).
-
+  puts 'HUH?! SPEAK UP, SONNY!'
+elsif phrase==capitals
+ puts 'NO, NOT SINCE 1938!'
+elsif phrase='I LOVE YOU GRANDMA'
+ puts 'I LOVE YOU TOO PUMPKIN'
 # If you shout, she can hear you (or at least she thinks so) 
 # and yells back
 
