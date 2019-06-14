@@ -1,7 +1,7 @@
 def speak_to_grandma
 
-if phrase==capitals 
-  
+if phrase !==capitals 
+  puts
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
 
