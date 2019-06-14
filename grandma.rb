@@ -4,8 +4,10 @@ if phrase !==capitals
   puts 'HUH?! SPEAK UP, SONNY!'
 elsif phrase==capitals
  puts 'NO, NOT SINCE 1938!'
-elsif phrase='I LOVE YOU GRANDMA'
+else phrase='I LOVE YOU GRANDMA'
  puts 'I LOVE YOU TOO PUMPKIN'
+ 
+ 
 # If you shout, she can hear you (or at least she thinks so) 
 # and yells back
 
